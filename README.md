@@ -1,5 +1,12 @@
 # Dxm - DxToolkit for Masking
 
+> [!CAUTION]
+>
+> ## Deprecated
+>
+> This project is now in long-term stasis. If you are using the dxm-toolkit today, we recommend that you adopt Data Control Tower (DCT) and migrate your automation to the [DCT Toolkit](https://help.delphix.com/dct/current/content/dct_toolkit.htm). The dxm-toolkit was a key input into the introduction of the fully Delphix supported DCT Toolkit.
+
+
 ## What is it
 
 Dxtoolkit for masking is a command line script to manipulate Delphix Masking Engine and it is delivered by Delphix professional services team.
